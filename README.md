@@ -13,8 +13,8 @@ See the documentation at [https://niclas-ahden.github.io/roc-png/](https://nicla
 
 ```roc
 app [main!] {
-	pf: platform "https://github.com/roc-lang/basic-cli/releases/download/0.28.0/2yhxoR7cZPSYbyUzPWULFw8AA6QEcdsgFNRmzu7pZbst.tar.zst",
-	png: "https://github.com/niclas-ahden/roc-png/releases/download/0.1.0/2ikyaoQrU3aMTjQsTgbTpvYPGQuj1yasnSequJQf5PRY.tar.zst",
+	pf: platform "https://github.com/roc-lang/basic-cli/releases/download/0.28.1/7brgwR8YUqfeGrkdfF1V4GPPN7DnP7ftqub9KcrTEZtr.tar.zst",
+	png: "https://github.com/niclas-ahden/roc-png/releases/download/0.1.1/2Hpo1Q91XTfmVjwJYNThpNsTwFFoGGygDzfa7ZxWuunJ.tar.zst",
 }
 
 import pf.Path
